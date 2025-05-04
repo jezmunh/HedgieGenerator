@@ -6,4 +6,4 @@ The launching of the web app is extremely simple:
 - Upon installing required packages do ``npm run dev`` command and follow the link, given in your terminal
 - Enjoy!
 ## Screenshots
-![blob:https://web.telegram.org/eea79385-223e-4bcd-a3e1-1c622994e45c]
+![Screenshot1](https://raw.githubusercontent.com/jezmunh/HedgieGenerator/refs/heads/main/screenshots/screenshot1.png)
